@@ -1,2 +1,2 @@
 # OnClickProgress
-Simple Android App that make progress on click
+Simple Godot Game that make progress on click
